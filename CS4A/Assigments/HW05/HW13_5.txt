@@ -1,0 +1,6 @@
+Circle 1: Circle{x=0.0, y=0.0, radius=5.0}
+Circle 2: Circle{x=0.0, y=0.0, radius=2.0}
+Max circle is: Circle{x=0.0, y=0.0, radius=5.0}
+Rec 1: The bounding rectangle's center (0.0, 0.0), width=10.0, height=5.0
+Rec 2: The bounding rectangle's center (0.0, 0.0), width=10.0, height=10.0
+Max Rec is: The bounding rectangle's center (0.0, 0.0), width=10.0, height=10.0

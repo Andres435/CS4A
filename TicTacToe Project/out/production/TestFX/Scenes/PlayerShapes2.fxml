@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.control.Label?>
+
+<AnchorPane prefHeight="160.0" prefWidth="543.0" xmlns="http://javafx.com/javafx/11.0.1"
+            xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.ChangePlayerShape2">
+    <Pane layoutX="3.0" layoutY="2.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="155.0" prefWidth="537.0" styleClass="main-bg" stylesheets="@Stylesheet.css">
+        <fx:define>
+            <Image fx:id="btn1Image" url="@/Images/playerX.png" />
+            <Image fx:id="btn2Image" url="@/Images/playerO.png" />
+            <Image fx:id="btn3Image" url="@/Images/playerSquare.png" />
+            <Image fx:id="btn4Image" url="@/Images/playerStar.png" />
+            <Image fx:id="btn5Image" url="@/Images/playerTriangle.png" />
+        </fx:define>
+        <AnchorPane fx:id="cross" layoutX="424.0" layoutY="29.0" onMouseClicked="#Img5press" prefHeight="113.0" prefWidth="102.0" styleClass="image" stylesheets="@Stylesheet.css" />
+        <AnchorPane fx:id="triangle" layoutX="321.0" layoutY="29.0" onMouseClicked="#Img4press" prefHeight="113.0" prefWidth="102.0" styleClass="image" stylesheets="@Stylesheet.css" />
+        <AnchorPane fx:id="star" layoutX="218.0" layoutY="29.0" onMouseClicked="#Img3press" prefHeight="113.0" prefWidth="102.0" styleClass="image" stylesheets="@Stylesheet.css" />
+        <AnchorPane fx:id="rectangle" layoutX="116.0" layoutY="29.0" onMouseClicked="#Img2press" prefHeight="113.0" prefWidth="102.0" styleClass="image" stylesheets="@Stylesheet.css" />
+        <AnchorPane fx:id="circle" layoutX="12.0" layoutY="29.0" onMouseClicked="#Img1press" prefHeight="113.0" prefWidth="102.0" styleClass="image" stylesheets="@Stylesheet.css" />
+
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#cedce9" height="99.0" layoutX="15.0" layoutY="36.0" mouseTransparent="true" onMouseClicked="#Img1press" stroke="BLACK" strokeType="INSIDE" width="95.0" />
+        <ImageView fitHeight="47.0" fitWidth="59.0" layoutX="33.0" layoutY="68.0" mouseTransparent="true" onMouseClicked="#Img1press" pickOnBounds="true" preserveRatio="true">
+            <Image url="@/Images/playerO.png" />
+        </ImageView>
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#cedce9" height="99.0" layoutX="119.0" layoutY="37.0" mouseTransparent="true" onMouseClicked="#Img2press" stroke="BLACK" strokeType="INSIDE" width="95.0" />
+        <ImageView fitHeight="55.0" fitWidth="48.0" layoutX="143.0" layoutY="63.0" mouseTransparent="true" onMouseClicked="#Img2press" pickOnBounds="true" preserveRatio="true">
+            <Image url="@/Images/playerSquare.png" />
+        </ImageView>
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#cedce9" height="99.0" layoutX="221.0" layoutY="37.0" mouseTransparent="true" onMouseClicked="#Img3press" stroke="BLACK" strokeType="INSIDE" width="95.0" />
+        <ImageView fitHeight="59.0" fitWidth="86.0" layoutX="226.0" layoutY="58.0" mouseTransparent="true" onMouseClicked="#Img3press" pickOnBounds="true" preserveRatio="true">
+            <Image url="@/Images/playerStar.png" />
+        </ImageView>
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#cedce9" height="99.0" layoutX="324.0" layoutY="36.0" mouseTransparent="true" onMouseClicked="#Img4press" stroke="BLACK" strokeType="INSIDE" width="95.0" />
+        <ImageView fitHeight="59.0" fitWidth="60.0" layoutX="342.0" layoutY="56.0" mouseTransparent="true" onMouseClicked="#Img4press" pickOnBounds="true" preserveRatio="true">
+            <Image url="@/Images/playerTriangle.png" />
+        </ImageView>
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#cedce9" height="99.0" layoutX="427.0" layoutY="37.0" mouseTransparent="true" onMouseClicked="#Img5press" stroke="BLACK" strokeType="INSIDE" width="95.0" />
+        <ImageView fitHeight="59.0" fitWidth="53.0" layoutX="451.0" layoutY="59.0" mouseTransparent="true" onMouseClicked="#Img5press" pickOnBounds="true" preserveRatio="true">
+            <Image url="@/Images/playerX.png" />
+        </ImageView>
+        <Label layoutX="140.0" layoutY="8.0" styleClass="label-white" text="Click on the shape you want to switch " />
+    </Pane>
+</AnchorPane>

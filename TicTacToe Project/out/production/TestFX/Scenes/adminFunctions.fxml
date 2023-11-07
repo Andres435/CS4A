@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="147.0" prefWidth="187.0" styleClass="main-bg" stylesheets="@Stylesheet.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.adminFunctions">
+   <children>
+      <VBox layoutX="43.0" layoutY="20.0" prefHeight="114.0" prefWidth="100.0" styleClass="inner-bg">
+         <children>
+            <AnchorPane prefHeight="49.0" prefWidth="100.0" styleClass="inner-bg">
+               <children>
+                  <Button layoutX="5.0" layoutY="10.0" mnemonicParsing="false" onAction="#editPlayers" text="Edit Players" />
+               </children>
+            </AnchorPane>
+            <AnchorPane prefHeight="44.0" prefWidth="100.0" styleClass="inner-bg">
+               <children>
+                  <Button layoutX="3.0" layoutY="8.0" mnemonicParsing="false" onAction="#editGames" text="Edit Games" />
+               </children>
+            </AnchorPane>
+         </children></VBox>
+   </children>
+</AnchorPane>

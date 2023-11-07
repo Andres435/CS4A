@@ -1,0 +1,33 @@
+Enter a SINGLE number. This will be used for the circle radius, 
+the square's side, and one side of the rectangle:
+1
+Enter the other side of the rectangle: 
+1
+Circle area: 3.141592653589793
+Recntangle area: 1.0
+Circle Perimeter: 6.283185307179586
+Square Perimeter: 4.0
+Recntangle Perimeter: 4.0
+
+Enter a SINGLE number. This will be used for the circle radius, 
+the square's side, and one side of the rectangle:
+10
+Enter the other side of the rectangle: 
+12
+Circle area: 314.1592653589793
+Recntangle area: 120.0
+Circle Perimeter: 62.83185307179586
+Square Perimeter: 40.0
+Recntangle Perimeter: 44.0
+
+Enter a SINGLE number. This will be used for the circle radius, 
+the square's side, and one side of the rectangle:
+5.7
+Enter the other side of the rectangle: 
+6.3
+Circle area: 102.07034531513239
+Square area: 32.49
+Recntangle area: 35.91
+Circle Perimeter: 35.814156250923645
+Square Perimeter: 22.8
+Recntangle Perimeter: 24.0

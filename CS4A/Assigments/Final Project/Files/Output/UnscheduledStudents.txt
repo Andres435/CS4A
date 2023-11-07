@@ -1,0 +1,23 @@
+
+Unscheduled Student: 
+
+Name: Andres Felipe Quintana
+E-mail: afq@saddleback.com
+Telephone: 3054974788
+Address: 44 Paseo Luna, San Clemente, CA, 92478
+ID: d9963311-e439-44f3-8344-24553e36680d
+DOF: Thu Sep 23 00:00:00 PDT 1999
+First Day Attending: Sat Aug 20 00:00:00 PDT 2016
+GPA: 3.6
+
+Unscheduled Student: 
+
+Name: Alejandro Empty Quintana
+E-mail: aq@saddleback.com
+Telephone: 3054974888
+Address: 44 Paseo Luna, San Clemente, CA, 92478
+ID: ba93cdd7-78b4-453d-b99a-c4062126ba90
+DOF: Fri Feb 16 00:00:00 PST 2001
+First Day Attending: Mon Aug 20 00:00:00 PDT 2018
+GPA: 3.4
+

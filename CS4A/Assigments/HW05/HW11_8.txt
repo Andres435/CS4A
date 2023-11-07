@@ -1,0 +1,21 @@
+Account name: George
+Interest rate: 1.5
+[Type: D
+Amount:
+Balance: 1000.0
+Description: deposit, Type: D
+Amount:
+Balance: 1030.0
+Description: deposit, Type: D
+Amount:
+Balance: 1070.0
+Description: deposit, Type: W
+Amount:
+Balance: 1120.0
+Description: withdraw, Type: W
+Amount:
+Balance: 1115.0
+Description: withdraw, Type: W
+Amount:
+Balance: 1111.0
+Description: withdraw]

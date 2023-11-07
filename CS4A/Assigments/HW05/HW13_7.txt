@@ -1,0 +1,10 @@
+shape #1 area = 1.0
+How to color: Color all four sides.
+shape #2 area = 1.0
+How to color: Color all four sides.
+shape #3 area = 100.0
+How to color: Color all four sides.
+shape #4 area = 4.0
+How to color: Color all four sides.
+shape #5 area = 625.0
+How to color: Color all four sides.

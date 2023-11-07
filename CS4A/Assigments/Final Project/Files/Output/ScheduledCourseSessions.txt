@@ -1,0 +1,327 @@
+
+CourseSchedule: 
+Course: CS1A
+Course Description: Introduction to Computer Science
+Max Capacity: 5
+Min Capacity: 3
+Session Id: 0
+Professor: : Santiago Empty Del Campo
+Professor Id: 2401f625-e7de-408b-858a-a0c2c4465644
+Students In Session: 2
+Student: Pasrsa Empty Bavafa
+Students Id: 49858fe6-82dd-4f05-bc59-8ff969070356
+
+Student: Utsav Empty Parajuli
+Students Id: 90107dc5-03e9-4a98-bbc8-38d7eeb08ed0
+
+Session Id: 1
+Professor: : Alejandro Empty Espinosa
+Professor Id: e5dea719-9056-43b0-bdbf-55abe19c4e25
+Students In Session: 1
+Student: Julian Empty Lasting
+Students Id: e6e6830b-c90c-45ad-bf0c-9f0c8a15d4a9
+
+CourseSchedule: 
+Course: CS1C
+Course Description: Intoduction to Object Oriented Programming
+Max Capacity: 5
+Min Capacity: 3
+Session Id: 0
+Professor: : Santiago Empty Del Campo
+Professor Id: 2401f625-e7de-408b-858a-a0c2c4465644
+Students In Session: 3
+Student: Brandon Empty Evans
+Students Id: 701c37e1-abe8-41c7-8533-c8a131eb0b6e
+
+Student: Sichao Empty Liu
+Students Id: 416ac73d-e258-4581-b282-3463b935a6f0
+
+Student: Brandon Empty Nguyen
+Students Id: 265ef6ed-9524-42d4-abe9-69fa938381be
+
+Session Id: 1
+Professor: : Alejandro Empty Espinosa
+Professor Id: e5dea719-9056-43b0-bdbf-55abe19c4e25
+Students In Session: 2
+Student: Kyle Empty Geesink
+Students Id: c8912e5f-20fd-4d02-aed5-9d83913d3d37
+
+Student: Ryan Empty Orlando
+Students Id: 0c44b300-5e24-4d86-906e-9cdb793b63e8
+
+Session Id: 2
+Professor: : Jayson Manuel Carrillo
+Professor Id: 34460be0-3b84-465c-9b7b-83d21c63e9d2
+Students In Session: 1
+Student: Dan Empty Mateos
+Students Id: f0b43936-118d-418f-93e2-869003b46744
+
+CourseSchedule: 
+Course: CS1D
+Course Description: Data Structures
+Max Capacity: 5
+Min Capacity: 3
+Session Id: 0
+Professor: : Santiago Empty Del Campo
+Professor Id: 2401f625-e7de-408b-858a-a0c2c4465644
+Students In Session: 3
+Student: Simon Empty Chesney
+Students Id: 3927d63d-9fdf-428e-ba18-113046668d8c
+
+Student: Lina Empty Kang
+Students Id: 1451fb0f-54fc-4e67-b300-5fea951bcd12
+
+Student: Saul Empty Moreno
+Students Id: 6fda38c2-7d98-4427-98b3-f1634e46d052
+
+Session Id: 1
+Professor: : Alejandro Empty Espinosa
+Professor Id: e5dea719-9056-43b0-bdbf-55abe19c4e25
+Students In Session: 2
+Student: Tim Empty Diersing
+Students Id: ae576e7c-3f5e-4f7d-b3cf-d563f573c2d0
+
+Student: Hieu Empty Nguyen
+Students Id: 1245e109-93df-4987-998b-c037ec9d2efb
+
+CourseSchedule: 
+Course: CS3A
+Course Description: COMP ORG/ Machine Language
+Max Capacity: 5
+Min Capacity: 3
+Session Id: 0
+Professor: : Santiago Empty Del Campo
+Professor Id: 2401f625-e7de-408b-858a-a0c2c4465644
+Students In Session: 3
+Student: Kord Empty Boniadi
+Students Id: 8392edf6-aa4b-49d8-8082-867517e6f96a
+
+Student: Grant Empty Goldsworth
+Students Id: 00185d47-7eed-4057-8aaf-cf2cf4505f32
+
+Student: Dan Empty Mateos
+Students Id: f0b43936-118d-418f-93e2-869003b46744
+
+Session Id: 1
+Professor: : Alejandro Empty Espinosa
+Professor Id: e5dea719-9056-43b0-bdbf-55abe19c4e25
+Students In Session: 1
+Student: Brandon Empty Evans
+Students Id: 701c37e1-abe8-41c7-8533-c8a131eb0b6e
+
+Session Id: 2
+Professor: : Jayson Manuel Carrillo
+Professor Id: 34460be0-3b84-465c-9b7b-83d21c63e9d2
+Students In Session: 1
+Student: Julian Empty Lasting
+Students Id: e6e6830b-c90c-45ad-bf0c-9f0c8a15d4a9
+
+CourseSchedule: 
+Course: CS3B
+Course Description: COMP ORG/ Assembly Language
+Max Capacity: 5
+Min Capacity: 3
+Session Id: 0
+Professor: : Santiago Empty Del Campo
+Professor Id: 2401f625-e7de-408b-858a-a0c2c4465644
+Students In Session: 3
+Student: Pasrsa Empty Bavafa
+Students Id: 49858fe6-82dd-4f05-bc59-8ff969070356
+
+Student: Johnathan Empty Lee
+Students Id: 9b76b7d6-92aa-4e5f-9199-262e8cb189ff
+
+Student: Ryan Empty Orlando
+Students Id: 0c44b300-5e24-4d86-906e-9cdb793b63e8
+
+Session Id: 1
+Professor: : Alejandro Empty Espinosa
+Professor Id: e5dea719-9056-43b0-bdbf-55abe19c4e25
+Students In Session: 1
+Student: Lina Empty Kang
+Students Id: 1451fb0f-54fc-4e67-b300-5fea951bcd12
+
+CourseSchedule: 
+Course: CS4A
+Course Description: Introduction to Java
+Max Capacity: 5
+Min Capacity: 3
+Session Id: 0
+Professor: : Santiago Empty Del Campo
+Professor Id: 2401f625-e7de-408b-858a-a0c2c4465644
+Students In Session: 2
+Student: Pasrsa Empty Bavafa
+Students Id: 49858fe6-82dd-4f05-bc59-8ff969070356
+
+Student: Grant Empty Goldsworth
+Students Id: 00185d47-7eed-4057-8aaf-cf2cf4505f32
+
+Session Id: 1
+Professor: : Alejandro Empty Espinosa
+Professor Id: e5dea719-9056-43b0-bdbf-55abe19c4e25
+Students In Session: 1
+Student: Kord Empty Boniadi
+Students Id: 8392edf6-aa4b-49d8-8082-867517e6f96a
+
+CourseSchedule: 
+Course: CS4B
+Course Description: Advance Topics-Java
+Max Capacity: 4
+Min Capacity: 2
+Session Id: 0
+Professor: : Jayson Manuel Carrillo
+Professor Id: 34460be0-3b84-465c-9b7b-83d21c63e9d2
+Students In Session: 3
+Student: Brandon Empty Evans
+Students Id: 701c37e1-abe8-41c7-8533-c8a131eb0b6e
+
+Student: Johnathan Empty Lee
+Students Id: 9b76b7d6-92aa-4e5f-9199-262e8cb189ff
+
+Student: Ryan Empty Orlando
+Students Id: 0c44b300-5e24-4d86-906e-9cdb793b63e8
+
+Session Id: 1
+Professor: : Andres Felipe Espinosa
+Professor Id: 265917df-3d89-40ae-af5e-d0299859f2cd
+Students In Session: 1
+Student: Lina Empty Kang
+Students Id: 1451fb0f-54fc-4e67-b300-5fea951bcd12
+
+CourseSchedule: 
+Course: COMM1
+Course Description: Communication Fundation
+Max Capacity: 5
+Min Capacity: 3
+Session Id: 0
+Professor: : Michelle Rose Pichardo
+Professor Id: f36ee9b7-116e-4585-b008-7f2b29328725
+Students In Session: 5
+Student: Pasrsa Empty Bavafa
+Students Id: 49858fe6-82dd-4f05-bc59-8ff969070356
+
+Student: Tim Empty Diersing
+Students Id: ae576e7c-3f5e-4f7d-b3cf-d563f573c2d0
+
+Student: Kyle Empty Geesink
+Students Id: c8912e5f-20fd-4d02-aed5-9d83913d3d37
+
+Student: Johnathan Empty Lee
+Students Id: 9b76b7d6-92aa-4e5f-9199-262e8cb189ff
+
+Student: Arman Empty Onbirbak
+Students Id: 076f7e90-3e1a-4aa1-b1e7-2f2a57242846
+
+Session Id: 1
+Professor: : Manuela Empty Dias
+Professor Id: 99413795-5240-40f2-87bb-ca23528e4a8a
+Students In Session: 3
+Student: Simon Empty Chesney
+Students Id: 3927d63d-9fdf-428e-ba18-113046668d8c
+
+Student: Julian Empty Lasting
+Students Id: e6e6830b-c90c-45ad-bf0c-9f0c8a15d4a9
+
+Student: Utsav Empty Parajuli
+Students Id: 90107dc5-03e9-4a98-bbc8-38d7eeb08ed0
+
+Session Id: 2
+Professor: : Stephanie Empty Mejia
+Professor Id: 3fbd2cc3-0dd1-414c-a6e1-43621993088f
+Students In Session: 1
+Student: Brandon Empty Evans
+Students Id: 701c37e1-abe8-41c7-8533-c8a131eb0b6e
+
+CourseSchedule: 
+Course: MATH24
+Course Description: Elemetal Differential Equations
+Max Capacity: 5
+Min Capacity: 3
+Session Id: 0
+Professor: : Oscar Felipe Zuluaga
+Professor Id: e8490815-5574-42b6-b5bb-d43df75d124e
+Students In Session: 3
+Student: Jared Empty Blueweiss
+Students Id: 041520f1-d552-40f4-a366-07510f8535db
+
+Student: Grant Empty Goldsworth
+Students Id: 00185d47-7eed-4057-8aaf-cf2cf4505f32
+
+Student: Dan Empty Mateos
+Students Id: f0b43936-118d-418f-93e2-869003b46744
+
+Session Id: 1
+Professor: : Mariam Antonia Zapata
+Professor Id: 4f8b962f-c045-4e0d-8f14-ddb93ef7c6a7
+Students In Session: 2
+Student: Kord Empty Boniadi
+Students Id: 8392edf6-aa4b-49d8-8082-867517e6f96a
+
+Student: Hyojun Empty Lee
+Students Id: 2e7d2cb6-18b9-4c01-9e1f-5fcdf92fb71e
+
+CourseSchedule: 
+Course: MATH26
+Course Description: Introduction to Linear Algebra
+Max Capacity: 4
+Min Capacity: 2
+Session Id: 0
+Professor: : Oscar Felipe Zuluaga
+Professor Id: e8490815-5574-42b6-b5bb-d43df75d124e
+Students In Session: 3
+Student: Jared Empty Blueweiss
+Students Id: 041520f1-d552-40f4-a366-07510f8535db
+
+Student: Kyle Empty Geesink
+Students Id: c8912e5f-20fd-4d02-aed5-9d83913d3d37
+
+Student: Hyojun Empty Lee
+Students Id: 2e7d2cb6-18b9-4c01-9e1f-5fcdf92fb71e
+
+Session Id: 1
+Professor: : Mariam Antonia Zapata
+Professor Id: 4f8b962f-c045-4e0d-8f14-ddb93ef7c6a7
+Students In Session: 2
+Student: Simon Empty Chesney
+Students Id: 3927d63d-9fdf-428e-ba18-113046668d8c
+
+Student: Saul Empty Moreno
+Students Id: 6fda38c2-7d98-4427-98b3-f1634e46d052
+
+CourseSchedule: 
+Course: MATH3C
+Course Description: Multivariable Calculus
+Max Capacity: 4
+Min Capacity: 2
+Session Id: 0
+Professor: : Oscar Felipe Zuluaga
+Professor Id: e8490815-5574-42b6-b5bb-d43df75d124e
+Students In Session: 3
+Student: Jared Empty Blueweiss
+Students Id: 041520f1-d552-40f4-a366-07510f8535db
+
+Student: Lina Empty Kang
+Students Id: 1451fb0f-54fc-4e67-b300-5fea951bcd12
+
+Student: Brandon Empty Nguyen
+Students Id: 265ef6ed-9524-42d4-abe9-69fa938381be
+
+Session Id: 1
+Professor: : Mariam Antonia Zapata
+Professor Id: 4f8b962f-c045-4e0d-8f14-ddb93ef7c6a7
+Students In Session: 1
+Student: Tim Empty Diersing
+Students Id: ae576e7c-3f5e-4f7d-b3cf-d563f573c2d0
+
+CourseSchedule: 
+Course: PHYS4A
+Course Description: Elementary Physics Calculus Base
+Max Capacity: 5
+Min Capacity: 3
+Session Id: 0
+Professor: : Sandra Lucia Torres
+Professor Id: 11e3f531-389a-4c72-90f2-9a963696f937
+Students In Session: 1
+Student: Brandon Empty Nguyen
+Students Id: 265ef6ed-9524-42d4-abe9-69fa938381be
+

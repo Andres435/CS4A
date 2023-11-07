@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onMouseClicked="#closeWindow" prefHeight="375.0" prefWidth="388.0" style="-fx-background-color: #cedce9; -fx-border-color: black;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Win">
+    <Label fx:id="winStatement" alignment="CENTER" contentDisplay="CENTER" layoutX="64.0" layoutY="150.0" mouseTransparent="true" prefHeight="75.0" prefWidth="260.0" text="won" textAlignment="CENTER">
+        <effect>
+            <DropShadow />
+        </effect>
+        <font>
+            <Font name="System Bold Italic" size="40.0" />
+        </font>
+    </Label>
+    <Label alignment="CENTER" contentDisplay="CENTER" layoutX="132.0" layoutY="353.0" mouseTransparent="true" prefHeight="16.0" prefWidth="124.0" text="click to continue" textAlignment="CENTER" wrapText="true">
+        <effect>
+            <DropShadow />
+        </effect>
+        <font>
+            <Font name="System Bold Italic" size="10.0" />
+        </font>
+    </Label>
+    <Label alignment="CENTER" contentDisplay="CENTER" layoutX="132.0" layoutY="6.0" mouseTransparent="true" prefHeight="16.0" prefWidth="124.0" text="click to continue" textAlignment="CENTER" wrapText="true">
+        <effect>
+            <DropShadow />
+        </effect>
+        <font>
+            <Font name="System Bold Italic" size="10.0" />
+        </font>
+    </Label>
+
+    <padding>
+        <Insets bottom="100.0" left="100.0" right="100.0" top="100.0" />
+    </padding>
+</AnchorPane>

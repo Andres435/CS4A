@@ -1,0 +1,363 @@
+
+Student: 
+Name: Pasrsa Empty Bavafa
+E-mail: pb@saddleback.com
+Telephone: 3054974567
+Address: 141 Main St, Ladera Ranch, CA, 92494
+ID: 49858fe6-82dd-4f05-bc59-8ff969070356
+DOF: Sat Oct 23 00:00:00 PDT 1999
+First Day Attending: Sat Aug 20 00:00:00 PDT 2016
+GPA: 3.2
+
+Course Id: CS1A
+Description: Introduction to Computer Science
+Session Id: 0
+Course Id: CS3B
+Description: COMP ORG/ Assembly Language
+Session Id: 0
+Course Id: CS4A
+Description: Introduction to Java
+Session Id: 0
+Course Id: COMM1
+Description: Communication Fundation
+Session Id: 0
+Student: 
+Name: Jared Empty Blueweiss
+E-mail: jb@saddleback.com
+Telephone: 3254678567
+Address: 12 Siruela, Mission Viejo, CA, 92694
+ID: 041520f1-d552-40f4-a366-07510f8535db
+DOF: Sat Sep 01 00:00:00 PDT 2001
+First Day Attending: Mon Aug 20 00:00:00 PDT 2018
+GPA: 3.0
+
+Course Id: MATH24
+Description: Elemetal Differential Equations
+Session Id: 0
+Course Id: MATH26
+Description: Introduction to Linear Algebra
+Session Id: 0
+Course Id: MATH3C
+Description: Multivariable Calculus
+Session Id: 0
+Student: 
+Name: Kord Empty Boniadi
+E-mail: kb@saddleback.com
+Telephone: 9493456785
+Address: 1 Satela, Alicio Viejo, CA, 92591
+ID: 8392edf6-aa4b-49d8-8082-867517e6f96a
+DOF: Mon Jan 17 00:00:00 PST 2000
+First Day Attending: Sun Aug 20 00:00:00 PDT 2017
+GPA: 3.5
+
+Course Id: CS3A
+Description: COMP ORG/ Machine Language
+Session Id: 0
+Course Id: CS4A
+Description: Introduction to Java
+Session Id: 1
+Course Id: MATH24
+Description: Elemetal Differential Equations
+Session Id: 1
+Student: 
+Name: Simon Empty Chesney
+E-mail: sc@saddleback.com
+Telephone: 9496783456
+Address: 15 Midstaley, Alicio Viejo, CA, 92591
+ID: 3927d63d-9fdf-428e-ba18-113046668d8c
+DOF: Fri Dec 01 00:00:00 PST 2000
+First Day Attending: Sun Aug 20 00:00:00 PDT 2017
+GPA: 2.7
+
+Course Id: CS1D
+Description: Data Structures
+Session Id: 0
+Course Id: COMM1
+Description: Communication Fundation
+Session Id: 1
+Course Id: MATH26
+Description: Introduction to Linear Algebra
+Session Id: 1
+Student: 
+Name: Tim Empty Diersing
+E-mail: td@saddleback.com
+Telephone: 3054974567
+Address: 14 Manderian St, Las Flores, CA, 92490
+ID: ae576e7c-3f5e-4f7d-b3cf-d563f573c2d0
+DOF: Sat Oct 23 00:00:00 PDT 1999
+First Day Attending: Sat Aug 20 00:00:00 PDT 2016
+GPA: 3.6
+
+Course Id: CS1D
+Description: Data Structures
+Session Id: 1
+Course Id: COMM1
+Description: Communication Fundation
+Session Id: 0
+Course Id: MATH3C
+Description: Multivariable Calculus
+Session Id: 1
+Student: 
+Name: Brandon Empty Evans
+E-mail: be@saddleback.com
+Telephone: 3254678567
+Address: 15 Siruela, Mission Viejo, CA, 92694
+ID: 701c37e1-abe8-41c7-8533-c8a131eb0b6e
+DOF: Sat Sep 01 00:00:00 PDT 2001
+First Day Attending: Mon Aug 20 00:00:00 PDT 2018
+GPA: 3.1
+
+Course Id: CS1C
+Description: Intoduction to Object Oriented Programming
+Session Id: 0
+Course Id: CS3A
+Description: COMP ORG/ Machine Language
+Session Id: 1
+Course Id: CS4B
+Description: Advance Topics-Java
+Session Id: 0
+Course Id: COMM1
+Description: Communication Fundation
+Session Id: 2
+Student: 
+Name: Kyle Empty Geesink
+E-mail: kg@saddleback.com
+Telephone: 9493456785
+Address: 11 Satela, Alicio Viejo, CA, 92591
+ID: c8912e5f-20fd-4d02-aed5-9d83913d3d37
+DOF: Mon Jan 17 00:00:00 PST 2000
+First Day Attending: Sun Aug 20 00:00:00 PDT 2017
+GPA: 3.3
+
+Course Id: CS1C
+Description: Intoduction to Object Oriented Programming
+Session Id: 1
+Course Id: COMM1
+Description: Communication Fundation
+Session Id: 0
+Course Id: MATH26
+Description: Introduction to Linear Algebra
+Session Id: 0
+Student: 
+Name: Grant Empty Goldsworth
+E-mail: gg@saddleback.com
+Telephone: 9496783456
+Address: 35 Midstaley, Alicio Viejo, CA, 92591
+ID: 00185d47-7eed-4057-8aaf-cf2cf4505f32
+DOF: Fri Dec 01 00:00:00 PST 2000
+First Day Attending: Sun Aug 20 00:00:00 PDT 2017
+GPA: 2.1
+
+Course Id: CS3A
+Description: COMP ORG/ Machine Language
+Session Id: 0
+Course Id: CS4A
+Description: Introduction to Java
+Session Id: 0
+Course Id: MATH24
+Description: Elemetal Differential Equations
+Session Id: 0
+Student: 
+Name: Lina Empty Kang
+E-mail: lk@saddleback.com
+Telephone: 3173456789
+Address: 28050 Marguerite pkwy, Mission Viejo, CA, 92692
+ID: 1451fb0f-54fc-4e67-b300-5fea951bcd12
+DOF: Wed Nov 03 00:00:00 PST 1999
+First Day Attending: Sat Aug 20 00:00:00 PDT 2016
+GPA: 3.0
+
+Course Id: CS1D
+Description: Data Structures
+Session Id: 0
+Course Id: CS3B
+Description: COMP ORG/ Assembly Language
+Session Id: 1
+Course Id: CS4B
+Description: Advance Topics-Java
+Session Id: 1
+Course Id: MATH3C
+Description: Multivariable Calculus
+Session Id: 0
+Student: 
+Name: Julian Empty Lasting
+E-mail: jl@saddleback.com
+Telephone: 3156782345
+Address: 208050 Marguerite pkwy, Mission Viejo, CA, 92692
+ID: e6e6830b-c90c-45ad-bf0c-9f0c8a15d4a9
+DOF: Sun Jul 23 00:00:00 PDT 2000
+First Day Attending: Sun Aug 20 00:00:00 PDT 2017
+GPA: 3.8
+
+Course Id: CS1A
+Description: Introduction to Computer Science
+Session Id: 1
+Course Id: CS3A
+Description: COMP ORG/ Machine Language
+Session Id: 2
+Course Id: COMM1
+Description: Communication Fundation
+Session Id: 1
+Student: 
+Name: Hyojun Empty Lee
+E-mail: hl@saddleback.com
+Telephone: 3054974567
+Address: 144 Main St, Ladera Ranch, CA, 92494
+ID: 2e7d2cb6-18b9-4c01-9e1f-5fcdf92fb71e
+DOF: Sat Oct 23 00:00:00 PDT 1999
+First Day Attending: Sat Aug 20 00:00:00 PDT 2016
+GPA: 3.7
+
+Course Id: MATH24
+Description: Elemetal Differential Equations
+Session Id: 1
+Course Id: MATH26
+Description: Introduction to Linear Algebra
+Session Id: 0
+Student: 
+Name: Johnathan Empty Lee
+E-mail: jlee@saddleback.com
+Telephone: 3254678567
+Address: 12 Siruela, Mission Viejo, CA, 92694
+ID: 9b76b7d6-92aa-4e5f-9199-262e8cb189ff
+DOF: Sat Sep 01 00:00:00 PDT 2001
+First Day Attending: Mon Aug 20 00:00:00 PDT 2018
+GPA: 4.0
+
+Course Id: CS3B
+Description: COMP ORG/ Assembly Language
+Session Id: 0
+Course Id: CS4B
+Description: Advance Topics-Java
+Session Id: 0
+Course Id: COMM1
+Description: Communication Fundation
+Session Id: 0
+Student: 
+Name: Sichao Empty Liu
+E-mail: sl@saddleback.com
+Telephone: 9493416785
+Address: 19 Satela, Alicio Viejo, CA, 92591
+ID: 416ac73d-e258-4581-b282-3463b935a6f0
+DOF: Mon Jan 17 00:00:00 PST 2000
+First Day Attending: Sun Aug 20 00:00:00 PDT 2017
+GPA: 2.8
+
+Course Id: CS1C
+Description: Intoduction to Object Oriented Programming
+Session Id: 0
+Student: 
+Name: Dan Empty Mateos
+E-mail: dm@saddleback.com
+Telephone: 9496983456
+Address: 15 Midstaley, Alicio Viejo, CA, 92591
+ID: f0b43936-118d-418f-93e2-869003b46744
+DOF: Fri Dec 01 00:00:00 PST 2000
+First Day Attending: Sun Aug 20 00:00:00 PDT 2017
+GPA: 2.9
+
+Course Id: CS1C
+Description: Intoduction to Object Oriented Programming
+Session Id: 2
+Course Id: CS3A
+Description: COMP ORG/ Machine Language
+Session Id: 0
+Course Id: MATH24
+Description: Elemetal Differential Equations
+Session Id: 0
+Student: 
+Name: Saul Empty Moreno
+E-mail: sm@saddleback.com
+Telephone: 3054474567
+Address: 34 Manderian St, Las Flores, CA, 92490
+ID: 6fda38c2-7d98-4427-98b3-f1634e46d052
+DOF: Sat Oct 23 00:00:00 PDT 1999
+First Day Attending: Sat Aug 20 00:00:00 PDT 2016
+GPA: 3.5
+
+Course Id: CS1D
+Description: Data Structures
+Session Id: 0
+Course Id: MATH26
+Description: Introduction to Linear Algebra
+Session Id: 1
+Student: 
+Name: Brandon Empty Nguyen
+E-mail: bn@saddleback.com
+Telephone: 3254878567
+Address: 67 Siruela, Mission Viejo, CA, 92694
+ID: 265ef6ed-9524-42d4-abe9-69fa938381be
+DOF: Sat Sep 01 00:00:00 PDT 2001
+First Day Attending: Mon Aug 20 00:00:00 PDT 2018
+GPA: 3.3
+
+Course Id: CS1C
+Description: Intoduction to Object Oriented Programming
+Session Id: 0
+Course Id: MATH3C
+Description: Multivariable Calculus
+Session Id: 0
+Course Id: PHYS4A
+Description: Elementary Physics Calculus Base
+Session Id: 0
+Student: 
+Name: Hieu Empty Nguyen
+E-mail: hn@saddleback.com
+Telephone: 9492456785
+Address: 67 Siruela, Mission Viejo, CA, 92694
+ID: 1245e109-93df-4987-998b-c037ec9d2efb
+DOF: Mon Jan 17 00:00:00 PST 2000
+First Day Attending: Sun Aug 20 00:00:00 PDT 2017
+GPA: 3.1
+
+Course Id: CS1D
+Description: Data Structures
+Session Id: 1
+Student: 
+Name: Arman Empty Onbirbak
+E-mail: ao@saddleback.com
+Telephone: 9496383456
+Address: 1 Midstaley, Alicio Viejo, CA, 92591
+ID: 076f7e90-3e1a-4aa1-b1e7-2f2a57242846
+DOF: Fri Dec 01 00:00:00 PST 2000
+First Day Attending: Sun Aug 20 00:00:00 PDT 2017
+GPA: 2.6
+
+Course Id: COMM1
+Description: Communication Fundation
+Session Id: 0
+Student: 
+Name: Ryan Empty Orlando
+E-mail: ro@saddleback.com
+Telephone: 3173406789
+Address: 12 Sable, Las Flores, CA, 92693
+ID: 0c44b300-5e24-4d86-906e-9cdb793b63e8
+DOF: Wed Nov 03 00:00:00 PST 1999
+First Day Attending: Sat Aug 20 00:00:00 PDT 2016
+GPA: 3.9
+
+Course Id: CS1C
+Description: Intoduction to Object Oriented Programming
+Session Id: 1
+Course Id: CS3B
+Description: COMP ORG/ Assembly Language
+Session Id: 0
+Course Id: CS4B
+Description: Advance Topics-Java
+Session Id: 0
+Student: 
+Name: Utsav Empty Parajuli
+E-mail: up@saddleback.com
+Telephone: 3156772345
+Address: 208050 Marguerite pkwy, Mission Viejo, CA, 92692
+ID: 90107dc5-03e9-4a98-bbc8-38d7eeb08ed0
+DOF: Sun Jul 23 00:00:00 PDT 2000
+First Day Attending: Sun Aug 20 00:00:00 PDT 2017
+GPA: 3.0
+
+Course Id: CS1A
+Description: Introduction to Computer Science
+Session Id: 0
+Course Id: COMM1
+Description: Communication Fundation
+Session Id: 1

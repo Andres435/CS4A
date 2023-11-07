@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="112.0" prefWidth="551.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.ChangePlayerShape2">
+    <children>
+        <fx:define>
+            <Image fx:id="btn1Image" url="@/Images/playerX.png" />
+            <Image fx:id="btn2Image" url="@/Images/playerO.png" />
+            <Image fx:id="btn3Image" url="@/Images/playerSquare.png" />
+            <Image fx:id="btn4Image" url="@/Images/playerStar.png" />
+            <Image fx:id="btn5Image" url="@/Images/playerTriangle.png" />
+        </fx:define>
+        <ImageView fx:id="img1" fitHeight="65.0" fitWidth="95.0" layoutX="15.0" layoutY="33.0" onMouseClicked="#Img1press" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@/Images/playerO.png" />
+            </image>
+        </ImageView>
+        <ImageView fx:id="img2" fitHeight="95.0" fitWidth="80.0" layoutX="127.0" layoutY="27.0" onMouseClicked="#Img2press" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@/Images/playerSquare.png" />
+            </image>
+        </ImageView>
+        <ImageView fx:id="img3" fitHeight="150.0" fitWidth="95.0" layoutX="226.0" layoutY="36.0" onMouseClicked="#Img3press" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@/Images/playerStar.png" />
+            </image>
+        </ImageView>
+        <ImageView fx:id="img4" fitHeight="86.0" fitWidth="93.0" layoutX="336.0" layoutY="23.0" onMouseClicked="#Img4press" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@/Images/playerTriangle.png" />
+            </image>
+        </ImageView>
+        <ImageView fx:id="img5" fitHeight="138.0" fitWidth="80.0" layoutX="445.0" layoutY="23.0" onMouseClicked="#Img5press" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@/Images/playerX.png" />
+            </image>
+        </ImageView>
+    </children>
+</Pane>

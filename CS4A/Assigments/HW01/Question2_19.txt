@@ -1,0 +1,8 @@
+Enter 3 points:
+Enter (x) component for the first point: 1.5
+Enter (y) component for the first point: -3.4
+Enter (x) component for the second point: 4.6
+Enter (y) component for the second point: 5
+Enter (x) component for the third point: 9.5
+Enter (y) component for the third point: -3.4
+The area of the triangle is 33.600000000000016

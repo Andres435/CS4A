@@ -1,0 +1,265 @@
+
+Professor: 
+Name: Santiago Empty Del Campo
+E-mail: brick000@saddleback.com
+Telephone: 3054974567
+Address: 140 Main St, Ladera Ranch, CA, 92694
+ID: 2401f625-e7de-408b-858a-a0c2c4465644
+Hired Date: Sat Oct 23 00:00:00 PDT 1999
+Ternurated: CS
+
+
+Course: CS1A
+Course Description: Introduction to Computer Science
+
+Session Id: 0
+Session Size: 2
+
+Course: CS1C
+Course Description: Intoduction to Object Oriented Programming
+
+Session Id: 0
+Session Size: 3
+
+Course: CS1D
+Course Description: Data Structures
+
+Session Id: 0
+Session Size: 3
+
+Course: CS3A
+Course Description: COMP ORG/ Machine Language
+
+Session Id: 0
+Session Size: 3
+
+Course: CS3B
+Course Description: COMP ORG/ Assembly Language
+
+Session Id: 0
+Session Size: 3
+
+Course: CS4A
+Course Description: Introduction to Java
+
+Session Id: 0
+Session Size: 2
+Professor: 
+Name: Alejandro Empty Espinosa
+E-mail: alejqe@saddleback.com
+Telephone: 3064974568
+Address: 28050 Marguerite, Mission Viejo, CA, 92692
+ID: e5dea719-9056-43b0-bdbf-55abe19c4e25
+Hired Date: Thu Sep 23 00:00:00 PDT 1999
+Ternurated: CS
+
+
+Course: CS1A
+Course Description: Introduction to Computer Science
+
+Session Id: 1
+Session Size: 1
+
+Course: CS1C
+Course Description: Intoduction to Object Oriented Programming
+
+Session Id: 1
+Session Size: 2
+
+Course: CS1D
+Course Description: Data Structures
+
+Session Id: 1
+Session Size: 2
+
+Course: CS3A
+Course Description: COMP ORG/ Machine Language
+
+Session Id: 1
+Session Size: 1
+
+Course: CS3B
+Course Description: COMP ORG/ Assembly Language
+
+Session Id: 1
+Session Size: 1
+
+Course: CS4A
+Course Description: Introduction to Java
+
+Session Id: 1
+Session Size: 1
+Professor: 
+Name: Jayson Manuel Carrillo
+E-mail: jmc@saddleback.com
+Telephone: 3234974567
+Address: 148 Main St, Ladera Ranch, CA, 92694
+ID: 34460be0-3b84-465c-9b7b-83d21c63e9d2
+Hired Date: Tue Nov 23 00:00:00 PST 1999
+Ternurated: CS
+
+
+Course: CS1C
+Course Description: Intoduction to Object Oriented Programming
+
+Session Id: 2
+Session Size: 1
+
+Course: CS3A
+Course Description: COMP ORG/ Machine Language
+
+Session Id: 2
+Session Size: 1
+
+Course: CS4B
+Course Description: Advance Topics-Java
+
+Session Id: 0
+Session Size: 3
+Professor: 
+Name: Andres Felipe Espinosa
+E-mail: afe@saddleback.com
+Telephone: 3054974788
+Address: 17 Paseo Luna, San Clemente, CA, 92873
+ID: 265917df-3d89-40ae-af5e-d0299859f2cd
+Hired Date: Mon Oct 20 00:00:00 PDT 1997
+Ternurated: CS
+
+
+Course: CS4B
+Course Description: Advance Topics-Java
+
+Session Id: 1
+Session Size: 1
+Professor: 
+Name: Oscar Felipe Zuluaga
+E-mail: ofz@saddleback.com
+Telephone: 3167893456
+Address: 15 Paseo Real, San Clemente, CA, 92872
+ID: e8490815-5574-42b6-b5bb-d43df75d124e
+Hired Date: Tue Oct 23 00:00:00 PDT 2001
+Ternurated: MATH
+
+
+Course: MATH24
+Course Description: Elemetal Differential Equations
+
+Session Id: 0
+Session Size: 3
+
+Course: MATH26
+Course Description: Introduction to Linear Algebra
+
+Session Id: 0
+Session Size: 3
+
+Course: MATH3C
+Course Description: Multivariable Calculus
+
+Session Id: 0
+Session Size: 3
+Professor: 
+Name: Mariam Antonia Zapata
+E-mail: maz@saddleback.com
+Telephone: 3176543567
+Address: 28052 Marguerite, Mission Viejo, CA, 92692
+ID: 4f8b962f-c045-4e0d-8f14-ddb93ef7c6a7
+Hired Date: Sun Jul 23 00:00:00 PDT 2000
+Ternurated: MATH
+
+
+Course: MATH24
+Course Description: Elemetal Differential Equations
+
+Session Id: 1
+Session Size: 2
+
+Course: MATH26
+Course Description: Introduction to Linear Algebra
+
+Session Id: 1
+Session Size: 2
+
+Course: MATH3C
+Course Description: Multivariable Calculus
+
+Session Id: 1
+Session Size: 1
+Professor: 
+Name: Stephanie Lorena Pichardo
+E-mail: slp@saddleback.com
+Telephone: 3054985685
+Address: 22 Siruela, Mission Viejo, CA, 92698
+ID: a89c5c29-a3c6-4f6f-9f93-d2ef5e398905
+Hired Date: Mon Aug 23 00:00:00 PDT 1999
+Ternurated: MATH
+
+Professor: 
+Name: Michelle Rose Pichardo
+E-mail: mrp@saddleback.com
+Telephone: 3045763456
+Address: 22 Siruela, Mission Viejo, CA, 92698
+ID: f36ee9b7-116e-4585-b008-7f2b29328725
+Hired Date: Sun Sep 03 00:00:00 PDT 2017
+Ternurated: COMM
+
+
+Course: COMM1
+Course Description: Communication Fundation
+
+Session Id: 0
+Session Size: 5
+Professor: 
+Name: Manuel Jose Carvajal
+E-mail: mjc@saddleback.com
+Telephone: 3112340987
+Address: 10 Alicia ln, Ladera Ranch, CA, 92696
+ID: 987abd29-f758-4f8e-aa94-70ac5a24b5fa
+Hired Date: Fri Feb 11 00:00:00 PST 2005
+Ternurated: CS
+
+Professor: 
+Name: Manuela Empty Dias
+E-mail: md@saddleback.com
+Telephone: 3052340987
+Address: 28050 Culver Dr, Irvine, CA, 92780
+ID: 99413795-5240-40f2-87bb-ca23528e4a8a
+Hired Date: Fri Jul 03 00:00:00 PDT 2015
+Ternurated: COMM
+
+
+Course: COMM1
+Course Description: Communication Fundation
+
+Session Id: 1
+Session Size: 3
+Professor: 
+Name: Sandra Lucia Torres
+E-mail: slt@saddleback.com
+Telephone: 3182345678
+Address: 14 Irvine Dr, Irvine, CA, 92770
+ID: 11e3f531-389a-4c72-90f2-9a963696f937
+Hired Date: Fri Jan 21 00:00:00 PST 2000
+Ternurated: PHYS
+
+
+Course: PHYS4A
+Course Description: Elementary Physics Calculus Base
+
+Session Id: 0
+Session Size: 1
+Professor: 
+Name: Stephanie Empty Mejia
+E-mail: slp@saddleback.com
+Telephone: 3054985685
+Address: 22 Siruela, Mission Viejo, CA, 92698
+ID: 3fbd2cc3-0dd1-414c-a6e1-43621993088f
+Hired Date: Mon Aug 23 00:00:00 PDT 1999
+Ternurated: COMM
+
+
+Course: COMM1
+Course Description: Communication Fundation
+
+Session Id: 2
+Session Size: 1

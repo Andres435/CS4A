@@ -1,0 +1,5 @@
+Area is 1.9999999999999993
+Perimeter is 6.82842712474619
+Point is inside triangle: true
+Triangle 2 is inside this triangle: false
+Triangle 3 is overlaps this triangle: true

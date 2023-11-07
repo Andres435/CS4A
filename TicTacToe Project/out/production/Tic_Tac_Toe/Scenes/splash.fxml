@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Splash">
+   <children>
+      <AnchorPane prefHeight="273.0" prefWidth="606.0">
+         <children>
+            <Label layoutX="112.0" layoutY="43.0" prefHeight="216.0" prefWidth="382.0" text="Welcome to Tic-Tac-Toe!">
+               <font>
+                  <Font name="Calibri Bold" size="36.0" />
+               </font>
+            </Label>
+            <Button fx:id="sPlayerBtn" contentDisplay="RIGHT" layoutX="69.0" layoutY="243.0" mnemonicParsing="false" onAction="#pressBtn" text="Single Player">
+               <graphic>
+                  <ImageView fitHeight="25.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../Images/single_player_icon.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+         </children>
+      </AnchorPane>
+      <Button fx:id="mPlayerBtn" contentDisplay="RIGHT" layoutX="70.0" layoutY="282.0" mnemonicParsing="false" onAction="#pressMPlayerBtn" prefHeight="33.0" prefWidth="113.0" text="Multiplayer">
+         <graphic>
+            <ImageView fitHeight="25.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../Images/multiplayer_icon.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+      <Button fx:id="lanBtn" contentDisplay="RIGHT" layoutX="70.0" layoutY="323.0" mnemonicParsing="false" onAction="#pressLanBtn" prefHeight="33.0" prefWidth="113.0" text="LAN Game">
+         <graphic>
+            <ImageView fitHeight="25.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../Images/lan_icon.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+   </children>
+</AnchorPane>

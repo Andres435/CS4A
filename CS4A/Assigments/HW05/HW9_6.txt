@@ -1,0 +1,1 @@
+Sorting 100,000 numbers took 1602962710922 milliseconds

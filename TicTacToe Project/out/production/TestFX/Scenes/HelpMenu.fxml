@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="565.0" prefWidth="552.0" styleClass="main-bg" stylesheets="@Stylesheet.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextFlow layoutX="14.0" layoutY="85.0" prefHeight="58.0" prefWidth="264.0" textAlignment="JUSTIFY">
+         <children>
+            <Text fill="#f9f8f8" smooth="false" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="label" text="In order to change the shape of an individual player you must click on the player menu in the top left corner." wrappingWidth="264.0" />
+         </children>
+      </TextFlow>
+      <TextFlow layoutX="14.0" layoutY="160.0" prefHeight="72.0" prefWidth="251.0">
+         <children>
+            <Text fill="WHITE" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="label" text="5 options will be available to select from. Make sure that both players are different shapes to keep track of each other!" wrappingWidth="264.0" x="100.0" y="70.0" />
+         </children>
+      </TextFlow>
+      <ImageView fitHeight="231.0" fitWidth="252.0" layoutX="285.0" layoutY="27.0">
+         <image>
+            <Image url="@/Images/Screenshot_for_Tic.png" />
+         </image>
+      </ImageView>
+      <Text fill="WHITE" layoutX="70.0" layoutY="62.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="label-white" text="Changing Player Shape">
+         <font>
+            <Font size="14.0" />
+         </font></Text>
+      <TextFlow layoutX="14.0" layoutY="361.0" prefHeight="48.0" prefWidth="251.0">
+         <children>
+            <Text fill="WHITE" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="label" text="To start a new game use the Player Menu to select new game" />
+         </children>
+      </TextFlow>
+      <ImageView fitHeight="201.0" fitWidth="264.0" layoutX="276.0" layoutY="329.0">
+         <image>
+            <Image url="@/Images/NewGameScreenshot.png" />
+         </image>
+      </ImageView>
+      <Text fill="WHITE" layoutX="86.0" layoutY="344.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="label-white" text="Start New Game">
+         <font>
+            <Font size="14.0" />
+         </font></Text>
+   </children>
+</Pane>

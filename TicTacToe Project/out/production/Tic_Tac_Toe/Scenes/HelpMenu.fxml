@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Text?>
+<?import javafx.scene.text.TextFlow?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="565.0" prefWidth="552.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextFlow layoutX="14.0" layoutY="85.0" prefHeight="58.0" prefWidth="264.0" textAlignment="JUSTIFY">
+         <children>
+            <Text smooth="false" strokeType="OUTSIDE" strokeWidth="0.0" text="In order to change the shape of an individual player you must click on the player menu in the top left corner." wrappingWidth="264.0" />
+         </children>
+      </TextFlow>
+      <TextFlow layoutX="14.0" layoutY="160.0" prefHeight="72.0" prefWidth="251.0">
+         <children>
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="5 options will be available to select from. Make sure that both players are different shapes to keep track of each other!" wrappingWidth="264.0" x="100.0" y="70.0" />
+         </children>
+      </TextFlow>
+      <ImageView fitHeight="231.0" fitWidth="252.0" layoutX="285.0" layoutY="27.0">
+         <image>
+            <Image url="@/Images/Screenshot_for_Tic.png" />
+         </image>
+      </ImageView>
+      <Text layoutX="102.0" layoutY="49.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Changing Player Shape" />
+      <TextFlow layoutX="14.0" layoutY="361.0" prefHeight="48.0" prefWidth="251.0">
+         <children>
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="To start a new game use the Player Menu to select new game" />
+         </children>
+      </TextFlow>
+      <ImageView fitHeight="201.0" fitWidth="264.0" layoutX="276.0" layoutY="329.0">
+         <image>
+            <Image url="@/Images/NewGameScreenshot.png" />
+         </image>
+      </ImageView>
+      <Text layoutX="103.0" layoutY="342.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Start New Game" />
+   </children>
+</Pane>

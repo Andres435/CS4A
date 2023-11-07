@@ -1,0 +1,144 @@
+Professors:
+Santiago
+Empty
+Del Campo
+brick000@saddleback.com
+3054974567
+140 Main St
+Ladera Ranch
+CA
+92694
+CS
+10/23/1999
+
+Alejandro
+Empty
+Espinosa
+alejqe@saddleback.com
+3064974568
+28050 Marguerite
+Mission Viejo
+CA
+92692
+CS
+09/23/1999
+
+Jayson
+Manuel
+Carrillo
+jmc@saddleback.com
+3234974567
+148 Main St
+Ladera Ranch
+CA
+92694
+CS
+11/23/1999
+
+Andres
+Felipe
+Espinosa
+afe@saddleback.com
+3054974788
+17 Paseo Luna
+San Clemente
+CA
+92873
+CS
+10/20/1997
+
+Oscar
+Felipe
+Zuluaga
+ofz@saddleback.com
+3167893456
+15 Paseo Real
+San Clemente
+CA
+92872
+MATH
+10/23/2001
+
+Mariam
+Antonia
+Zapata
+maz@saddleback.com
+3176543567
+28052 Marguerite
+Mission Viejo
+CA
+92692
+MATH
+07/23/2000
+
+Stephanie
+Lorena
+Pichardo
+slp@saddleback.com
+3054985685
+22 Siruela
+Mission Viejo
+CA
+92698
+MATH
+08/23/1999
+
+Michelle
+Rose
+Pichardo
+mrp@saddleback.com
+3045763456
+22 Siruela
+Mission Viejo
+CA
+92698
+COMM
+09/03/2017
+
+Manuel
+Jose
+Carvajal
+mjc@saddleback.com
+3112340987
+10 Alicia ln
+Ladera Ranch
+CA
+92696
+CS
+02/11/2005
+
+Manuela
+Empty
+Dias
+md@saddleback.com
+3052340987
+28050 Culver Dr
+Irvine
+CA
+92780
+COMM
+07/03/2015
+
+Sandra
+Lucia
+Torres
+slt@saddleback.com
+3182345678
+14 Irvine Dr
+Irvine
+CA
+92770
+PHYS
+01/21/2000
+
+Stephanie
+Empty
+Mejia
+slp@saddleback.com
+3054985685
+22 Siruela
+Mission Viejo
+CA
+92698
+COMM
+08/23/1999

@@ -1,0 +1,2 @@
+Enter 10 integers: 34 5 3 5 6 4 33 2 2 4
+Distict integer are: [34, 5, 3, 6, 4, 33, 2]

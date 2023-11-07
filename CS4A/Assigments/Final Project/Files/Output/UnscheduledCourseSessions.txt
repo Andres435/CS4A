@@ -1,0 +1,6 @@
+
+Unscheduled Course: 
+Course: CS1B
+Course Description: Introduction to C++
+Min Capacity to Schedule: 3
+

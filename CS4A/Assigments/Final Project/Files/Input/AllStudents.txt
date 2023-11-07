@@ -1,0 +1,286 @@
+Students:
+Pasrsa
+Empty
+Bavafa
+pb@saddleback.com
+3054974567
+141 Main St
+Ladera Ranch
+CA
+92494
+10/23/1999
+08/20/2016
+3.2
+
+Jared
+Empty
+Blueweiss
+jb@saddleback.com
+3254678567
+12 Siruela
+Mission Viejo
+CA
+92694
+09/01/2001
+08/20/2018
+3.0
+
+Kord
+Empty
+Boniadi
+kb@saddleback.com
+9493456785
+1 Satela
+Alicio Viejo
+CA
+92591
+01/17/2000
+08/20/2017
+3.5
+
+Simon
+Empty
+Chesney
+sc@saddleback.com
+9496783456
+15 Midstaley
+Alicio Viejo
+CA
+92591
+12/01/2000
+08/20/2017
+2.7
+
+Tim
+Empty
+Diersing
+td@saddleback.com
+3054974567
+14 Manderian St
+Las Flores
+CA
+92490
+10/23/1999
+08/20/2016
+3.6
+
+Brandon
+Empty
+Evans
+be@saddleback.com
+3254678567
+15 Siruela
+Mission Viejo
+CA
+92694
+09/01/2001
+08/20/2018
+3.1
+
+Kyle
+Empty
+Geesink
+kg@saddleback.com
+9493456785
+11 Satela
+Alicio Viejo
+CA
+92591
+01/17/2000
+08/20/2017
+3.3
+
+Grant
+Empty
+Goldsworth
+gg@saddleback.com
+9496783456
+35 Midstaley
+Alicio Viejo
+CA
+92591
+12/01/2000
+08/20/2017
+2.1
+
+Lina
+Empty
+Kang
+lk@saddleback.com
+3173456789
+28050 Marguerite pkwy
+Mission Viejo
+CA
+92692
+11/03/1999
+08/20/2016
+3.0
+
+Julian
+Empty
+Lasting
+jl@saddleback.com
+3156782345
+208050 Marguerite pkwy
+Mission Viejo
+CA
+92692
+07/23/2000
+08/20/2017
+3.8
+
+Hyojun
+Empty
+Lee
+hl@saddleback.com
+3054974567
+144 Main St
+Ladera Ranch
+CA
+92494
+10/23/1999
+08/20/2016
+3.7
+
+Johnathan
+Empty
+Lee
+jlee@saddleback.com
+3254678567
+12 Siruela
+Mission Viejo
+CA
+92694
+09/01/2001
+08/20/2018
+4.0
+
+Sichao
+Empty
+Liu
+sl@saddleback.com
+9493416785
+19 Satela
+Alicio Viejo
+CA
+92591
+01/17/2000
+08/20/2017
+2.8
+
+Dan
+Empty
+Mateos
+dm@saddleback.com
+9496983456
+15 Midstaley
+Alicio Viejo
+CA
+92591
+12/01/2000
+08/20/2017
+2.9
+
+Saul
+Empty
+Moreno
+sm@saddleback.com
+3054474567
+34 Manderian St
+Las Flores
+CA
+92490
+10/23/1999
+08/20/2016
+3.5
+
+Brandon
+Empty
+Nguyen
+bn@saddleback.com
+3254878567
+67 Siruela
+Mission Viejo
+CA
+92694
+09/01/2001
+08/20/2018
+3.3
+
+Hieu
+Empty
+Nguyen
+hn@saddleback.com
+9492456785
+67 Siruela
+Mission Viejo
+CA
+92694
+01/17/2000
+08/20/2017
+3.1
+
+Arman
+Empty
+Onbirbak
+ao@saddleback.com
+9496383456
+1 Midstaley
+Alicio Viejo
+CA
+92591
+12/01/2000
+08/20/2017
+2.6
+
+Ryan
+Empty
+Orlando
+ro@saddleback.com
+3173406789
+12 Sable
+Las Flores
+CA
+92693
+11/03/1999
+08/20/2016
+3.9
+
+Utsav
+Empty
+Parajuli
+up@saddleback.com
+3156772345
+208050 Marguerite pkwy
+Mission Viejo
+CA
+92692
+07/23/2000
+08/20/2017
+3.0
+
+Andres
+Felipe
+Quintana
+afq@saddleback.com
+3054974788
+44 Paseo Luna
+San Clemente
+CA
+92478
+09/23/1999
+08/20/2016
+3.6
+
+Alejandro
+Empty
+Quintana
+aq@saddleback.com
+3054974888
+44 Paseo Luna
+San Clemente
+CA
+92478
+02/16/2001
+08/20/2018
+3.4
